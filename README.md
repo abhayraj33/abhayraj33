@@ -28,24 +28,3 @@ Want to contribute? Awesome! You can help improve this repository by:
 
 ## ⭐ Star This Repository!
 
-If you find the content helpful, please consider starring this repository. Your support helps me to continue creating high-quality content.
-
-## 👍 Like, Share, and Subscribe!
-
-If you find the content helpful, don't forget to **Like**, **Share**, and **Subscribe** to support the channel and stay informed about new videos.
-
-Thank you for visiting the Techno Snag repository! Happy coding! 🎉
-
-## 📄 License
-
-🛡️ License: [MIT](LICENSE) — Free to use with credit to **Imran Alam / TechnoSnag**
-
-You can use these codes for commercial use in your project by giving a shoutout in your content and description when you create a video or write a blog post.
-
----
-
-<p align="center">
-  <a href="https://www.youtube.com/technosnag">
-    <img src="https://img.shields.io/badge/Subscribe-Techno%20Snag-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Techno Snag on YouTube">
-  </a>
-</p>
