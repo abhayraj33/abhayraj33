@@ -2,9 +2,6 @@
 
 Welcome to the **ABHAY RAJ** repository! 🚀
 
-## 💸 Support My Work 🤝	
-## 🧰 Tech Recommendations
-
 A curated list of tech products and subscriptions I genuinely suggest for developers/DevOps learners and content creators.
 
 ## 🤝 Contributing to Techno Snag
