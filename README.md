@@ -1,27 +1,27 @@
-# ABHAY RAJ Repositor
+<h1 align="center">Hi 👋, I'm Abhayraj</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Welcome to the **ABHAY RAJ** repository! 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayraj33&label=Profile%20views&color=0e75b6&style=flat" alt="abhayraj33" /> </p>
 
-A curated list of tech products and subscriptions I genuinely suggest for developers/DevOps learners and content creators.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayraj33" alt="abhayraj33" /></a> </p>
 
-## 🤝 Contributing to Techno Snag
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### 📌 Before Contributing Read ➡️ [Contribution Guidelines](./CONTRIBUTING.md)
+- 📫 How to reach me **abhayrajsvm@gmail.com**
 
-Want to contribute? Awesome! You can help improve this repository by:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhay raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay raj" height="30" width="40" /></a>
+<a href="https://fb.com/abhay_shikazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhay_shikazu" height="30" width="40" /></a>
+<a href="https://instagram.com/abhay_shikazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay_shikazu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abahyrajgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abahyrajgautam" height="30" width="40" /></a>
+</p>
 
-- Forking the repository and submitting a pull request (PR) with your improvements.
-- Fixing issues, optimizing code, or adding useful comments.
-- Sharing your own scripts, tools, or enhancements.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-6. **Create a Pull Request (PR)** to merge your changes into the `main` branch of this repository.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayraj33&show_icons=true&locale=en&layout=compact" alt="abhayraj33" /></p>
 
-### 📌 When to Create an Issue?
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayraj33&show_icons=true&locale=en" alt="abhayraj33" /></p>
 
-- If you're fixing a **bug** or **adding a new feature**, create an **issue first** to discuss it.
-- If it’s a **small fix** (e.g., typos, minor improvements), you can directly submit a PR.
-
-💡 **Note**: All contributions will be reviewed before merging. Please ensure your changes follow best practices.
-
-## ⭐ Star This Repository!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayraj33&" alt="abhayraj33" /></p>
