@@ -1,0 +1,78 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .edge { stroke: #111111; stroke-width: 1; fill: none; opacity: 0.55; }
+      .facet-dark { fill: #1a1a1a; opacity: 0.92; }
+      .facet-mid { fill: #4a4a4a; opacity: 0.85; }
+      .facet-light { fill: #9a9a9a; opacity: 0.75; }
+      .facet-pale { fill: #d4d4d4; opacity: 0.6; }
+      .vertex { fill: #0a0a0a; }
+      #spin { transform-box: fill-box; transform-origin: 250px 250px; animation: spin 22s linear infinite; }
+      #bob { animation: bob 6s ease-in-out infinite; }
+      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      @keyframes bob { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-14px); } }
+    </style>
+  </defs>
+
+  <g id="bob">
+  <g id="spin">
+    <!-- long-range edges (the "web") -->
+    <g class="edge">
+      <line x1="250" y1="90"  x2="120" y2="230"/>
+      <line x1="250" y1="90"  x2="380" y2="230"/>
+      <line x1="250" y1="90"  x2="250" y2="250"/>
+      <line x1="120" y1="230" x2="90"  y2="360"/>
+      <line x1="120" y1="230" x2="250" y2="250"/>
+      <line x1="120" y1="230" x2="180" y2="410"/>
+      <line x1="380" y1="230" x2="410" y2="360"/>
+      <line x1="380" y1="230" x2="250" y2="250"/>
+      <line x1="380" y1="230" x2="320" y2="410"/>
+      <line x1="250" y1="250" x2="90"  y2="360"/>
+      <line x1="250" y1="250" x2="410" y2="360"/>
+      <line x1="250" y1="250" x2="180" y2="410"/>
+      <line x1="250" y1="250" x2="320" y2="410"/>
+      <line x1="90"  y1="360" x2="180" y2="410"/>
+      <line x1="410" y1="360" x2="320" y2="410"/>
+      <line x1="180" y1="410" x2="320" y2="410"/>
+      <line x1="90"  y1="360" x2="250" y2="440"/>
+      <line x1="410" y1="360" x2="250" y2="440"/>
+      <line x1="180" y1="410" x2="250" y2="440"/>
+      <line x1="320" y1="410" x2="250" y2="440"/>
+      <line x1="250" y1="90"  x2="180" y2="150"/>
+      <line x1="250" y1="90"  x2="320" y2="150"/>
+      <line x1="180" y1="150" x2="120" y2="230"/>
+      <line x1="320" y1="150" x2="380" y2="230"/>
+      <line x1="180" y1="150" x2="320" y2="150"/>
+    </g>
+
+    <!-- shaded facets for the "solid star" feel -->
+    <polygon class="facet-dark"  points="250,90 380,230 250,250"/>
+    <polygon class="facet-mid"   points="250,90 250,250 120,230"/>
+    <polygon class="facet-light" points="120,230 250,250 90,360"/>
+    <polygon class="facet-mid"   points="380,230 410,360 250,250"/>
+    <polygon class="facet-pale"  points="250,250 90,360 180,410"/>
+    <polygon class="facet-light" points="250,250 410,360 320,410"/>
+    <polygon class="facet-dark"  points="180,410 250,250 320,410"/>
+    <polygon class="facet-mid"   points="90,360 180,410 250,440"/>
+    <polygon class="facet-pale"  points="410,360 320,410 250,440"/>
+    <polygon class="facet-light" points="180,410 250,440 320,410"/>
+    <polygon class="facet-dark"  points="250,90 180,150 120,230"/>
+    <polygon class="facet-mid"   points="250,90 320,150 380,230"/>
+
+    <!-- vertex dots -->
+    <g class="vertex">
+      <circle cx="250" cy="90"  r="4"/>
+      <circle cx="180" cy="150" r="4"/>
+      <circle cx="320" cy="150" r="4"/>
+      <circle cx="120" cy="230" r="4"/>
+      <circle cx="380" cy="230" r="4"/>
+      <circle cx="250" cy="250" r="5"/>
+      <circle cx="90"  cy="360" r="4"/>
+      <circle cx="410" cy="360" r="4"/>
+      <circle cx="180" cy="410" r="4"/>
+      <circle cx="320" cy="410" r="4"/>
+      <circle cx="250" cy="440" r="4"/>
+    </g>
+  </g>
+  </g>
+</svg>
