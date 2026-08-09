@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">Finding Patterns Where Others See Data.</h3>
-<img align="right" alt="Coding" width="400" src="[https://in.pinterest.com/pin/53128470587516471/](https://pin.it/7dCFeRGqy)">
+<img align="right" alt="Coding" width="400" src="https://pin.it/7dCFeRGqy">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayraj33&label=Profile%20views&color=0e75b6&style=flat" alt="abhayraj33" /> </p>
