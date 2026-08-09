@@ -14,6 +14,8 @@
     </style>
   </defs>
 
+  <rect x="0" y="0" width="500" height="500" fill="#ffffff" rx="24"/>
+
   <g id="bob">
   <g id="spin">
     <!-- long-range edges (the "web") -->
