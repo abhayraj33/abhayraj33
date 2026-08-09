@@ -25,24 +25,24 @@
 <tr>
 <td>
 
-```yaml
-whoami:     Abhay Raj
-role:       Data Science & AI Enthusiast
-currently_building: LLM-based projects
-currently_learning: [GPT architecture, BERT architecture]
-open_to:    Collaborations in Data Science & AI
-writes_at:  medium.com/@abhayrajsvm
-fun_fact:   "I like taking things apart to see how they tick,
-             then rebuilding them from scratch."
-reach_me:   abhayrajsvm@gmail.com
-```
+🔭 &nbsp; Currently building **LLM-based projects**
+
+🌱 &nbsp; Currently learning **GPT architecture** & **BERT architecture**
+
+🤝 &nbsp; Open to collaborations in **Data Science & AI**
+
+📝 &nbsp; I write at **[medium.com/@abhayrajsvm](https://medium.com/@abhayrajsvm)**
+
+📫 &nbsp; Reach me at **abhayrajsvm@gmail.com**
+
+💡 &nbsp; *"I like taking things apart to see how they tick, then rebuilding them from scratch."*
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhayraj33&label=Profile%20Views&color=ffffff&style=for-the-badge&labelColor=0a0a0a" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abhayraj33&label=Profile%20Views&color=0a0a0a&style=for-the-badge&labelColor=ffffff" alt="profile views" />
 </p>
 
 <br>
@@ -119,16 +119,12 @@ reach_me:   abhayrajsvm@gmail.com
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhayraj33/abhayraj33/output/dist/snake.svg" />
+  <img src="https://raw.githubusercontent.com/abhayraj33/abhayraj33/output/snake.svg" width="100%"/>
 </p>
 
 <br>
 
-## ○ Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhayraj33&theme=flat&no-frame=true&margin-w=12&row=1&column=7" />
-</p>
 
 <br>
 
